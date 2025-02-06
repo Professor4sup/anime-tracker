@@ -10,7 +10,10 @@
     },
     "permissions": [
       "alexa::alerts:reminders:skill:readwrite"
-    ]
+    ],
+    "name": "Anime Tracker",
+    "description": "Ein Skill zur Benachrichtigung über Anime-Folgen und Synchronisationen.",
+    "invocationName": "anime benachrichtigungen"
   },
   "skillId": "your-skill-id"
 }
