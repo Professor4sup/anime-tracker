@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "version": "1.0",
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "https://your-endpoint-url"
+        }
+      }
+    },
+    "permissions": [
+      "alexa::alerts:reminders:skill:readwrite"
+    ]
+  },
+  "skillId": "your-skill-id"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "anime-notification-skill",
+  "version": "1.0.0",
+  "description": "Ein Alexa Skill zur Benachrichtigung über Anime-Folgen und Synchronisationen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.10.0"
+  }
+}
